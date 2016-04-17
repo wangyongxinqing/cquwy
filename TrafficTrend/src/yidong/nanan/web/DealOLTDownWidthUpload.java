@@ -42,7 +42,7 @@ public class DealOLTDownWidthUpload extends HttpServlet {
 		//获得服务器的名字
 		String serverName = request.getServerName();
 		//取得互联网程序的绝对地址
-		String realPath = request.getRealPath(serverName);/////////////!!!!!!!11
+		String realPath = request.getRealPath(serverName);
 		System.out.println(realPath);
 		//创建文件的保存目录
 		rootPath = realPath + "/file/";
