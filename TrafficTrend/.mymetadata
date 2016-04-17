@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TrafficTrend"
+  id="myeclipse.1460631702450"
+  context-root="/TrafficTrend"
+  j2ee-spec="5.0"
+  archive="TrafficTrend.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
